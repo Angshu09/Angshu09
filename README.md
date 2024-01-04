@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="bg.png"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/angshu-das/" target="_blank">
@@ -55,4 +50,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angshu09&" alt="angshu09" /></p>
 
 ###
-###
+
