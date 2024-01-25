@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm from Bishnupur, Bankura, WB<br><br>- 🚀 I’m currently learning DSA in Java & Web Development<br>- 💬 Ask me about Problem Solving & Development<br>- ⚡ Fun fact is Work First then think !</p>
+<p align="left">I'm from Bishnupur, Bankura, WB<br><br>- 🚀 I’m currently learning DSA using Java & Frontend Development<br>- 💬 Ask me about Problem Solving & Development<br>- ⚡ Fun fact is Work First then think !</p>
 
 ###
 
