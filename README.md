@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I Am Angshu Das. A Undergrad Coding Enthusiast</h1>
+<h1 align="center">Hi 👋, I Am Angshu Das. An Undergrad Coding Enthusiast</h1>
 
 ###
 
