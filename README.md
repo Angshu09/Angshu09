@@ -13,16 +13,16 @@
 
 <h1 align="center">Hi 👋, I'm Angshu Das</h1>
 
-<h3 align="center">Ignite Associate @ TCS | Full Stack Developer (MERN) | Java | Problem Solver</h3>
+<h3 align="center">Engineer at Tata Consultancy Services・EAD Engineer・Full Stack Developer (MERN)・DSA・BCA’25</h3>
 
 ---
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm from Bishnupur, Bankura, WB. <br><br>
+I'm from Bishnupur, Bankura, West Bengal. <br><br>
 🎓 I’ve completed my <b>Bachelor of Computer Applications (BCA) </b> from <b>Maulana Abul Kalam Azad University Of Technology</b>.<br>
-💼 Currently working as an <b>Ignite Associate at Tata Consultancy Services (TCS)</b>.<br>
+💼 Currently working as an <b>EAD Engineer at Tata Consultancy Services (TCS)</b>.<br>
 🚀 Passionate about building scalable full stack web applications and exploring new technologies.<br>
 💬 Ask me about Java, MERN Stack, DSA, or any cool tech stuff.<br>
 ⚡ Fun fact: I believe in <b>"Think twice before coding!"</b>
